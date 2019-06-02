@@ -7,9 +7,9 @@ class Test(unittest.TestCase):
 
     def set_data(self):
         self.code = '600848'
-        self.start = '2015-01-03'
-        self.end = '2015-04-07'
-        self.year = 2014
+        self.start = '2019-01-03'
+        self.end = '2019-04-07'
+        self.year = 2018
         self.quarter = 4
 
     def test_get_stock_basics(self):

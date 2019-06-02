@@ -9,7 +9,7 @@ import tushare.stock.trading as fd
 class Test(unittest.TestCase):
 
     def set_data(self):
-        self.code = '600848'
+        self.code = '300770'
         self.start = ''
         self.end = ''
         

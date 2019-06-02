@@ -9,7 +9,7 @@ import tushare.stock.billboard as fd
 class Test(unittest.TestCase):
 
     def set_data(self):
-        self.date = '2015-06-12'
+        self.date = '2019-05-31'
         self.days = 5
     
     def test_top_list(self):
